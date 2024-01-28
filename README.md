@@ -13,7 +13,16 @@
 ```bash
 git clone https://github.com/Mount-Isaac/Whatsapp.git
 cd Whatsapp
+```
 
+<p>2. Install the requirements:</p>
+
+```bash
 pip install -r requirements.txt
+```
 
+<p>3. Run the program:</p>
+
+```bash
 python automate_whatsapp.py
+```
