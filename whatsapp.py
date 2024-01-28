@@ -46,8 +46,8 @@ instance = os.getenv("INSTANCE")
 
 '''
 paramter formats
-phone='+254759856000'
-message = 'Hello, motherfucker :)'
+phone='+254(xx)(xxx)(xxx)'
+message = 'Hello, this is a testing message :)'
 '''
 
 # Take phone number
