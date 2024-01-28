@@ -14,8 +14,6 @@
 git clone https://github.com/Mount-Isaac/Whatsapp.git
 cd Whatsapp
 
-<p>Install the requirements</p>
 pip install -r requirements.txt
 
-<p>Run the Script</p>
 python automate_whatsapp.py
